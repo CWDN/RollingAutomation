@@ -1,0 +1,16 @@
+[
+{
+  "modid": "Rolling Automation",
+  "name": "Rolling Automation",
+  "description": "A mod about automation and rolling with it.",
+  "version": "0.0.1",
+  "mcversion": "1.8",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["CWDN"],
+  "credits": "The Forge and FML guys, for making this all this possible.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
